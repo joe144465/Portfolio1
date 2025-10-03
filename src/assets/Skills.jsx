@@ -29,7 +29,7 @@ export default function Skills() {
   }, []);
 
   return (
-    <div className="w-full max-w-lg space-y-4 mt-20  ">
+    <div className="w-full max-w-lg space-y-4 lg:mt-20  ">
       <div className="flex items-center space-x-4">
         <FaFigma className="text-5xl mt-8 text-blue-500" />
 

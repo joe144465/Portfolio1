@@ -1,7 +1,7 @@
 import LDownloadPDF from "./Ldownload.jsx";
 export default function Projectcard3({ Logo, title, description }) {
   return (
-    <div className=" lg:w-410 lg:h-200 md:w-210 md:h-150 w-80 h-120 md:ml-10 ml-0 lg:ml-0 bg-transparent rounded-lg border-1 border-gray-200 shadow-lg overflow-hidden hover:shadow-2xl transition-shadow shadow-white duration-300 ">
+    <div className=" lg:w-410 lg:h-200 md:w-210 md:h-150 w-100 h-120 md:ml-10 ml-0 lg:ml-0 bg-transparent rounded-lg border-1 border-gray-200 shadow-lg overflow-hidden hover:shadow-2xl transition-shadow shadow-white duration-300 ">
       <img
         src={Logo}
         alt={title}
